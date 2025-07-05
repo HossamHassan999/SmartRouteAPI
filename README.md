@@ -25,7 +25,7 @@ Developed by [Hossam Hassan]
 ## ⚙️ How to Run
 
 ```bash
-# 1️⃣ (Optional) Activate your virtual environment
+
 # 2️⃣ Install dependencies
 pip install -r requirements.txt
 
