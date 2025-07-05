@@ -7,7 +7,7 @@ app = FastAPI()
 
 DATABASE_URL = os.getenv(
     "DATABASE_URL",
-    "postgresql://postgres:121999@localhost:5432/rout"
+    "postgresql://postgres:password@localhost:5432/rout"
 )
 
 class RouteRequest(BaseModel):
